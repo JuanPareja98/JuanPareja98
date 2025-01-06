@@ -23,5 +23,4 @@
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/juanpareja98/)
 [![Static Badge](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59177089524)
-[![Static Badge](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/@juan_parej)
 [![Static Badge](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pareja.juan@hotmail.com)
